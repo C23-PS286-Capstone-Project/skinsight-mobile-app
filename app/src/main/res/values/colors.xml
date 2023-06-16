@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ColorPrimary">#4C79F0</color>
+    <color name="ColorSecondary">#B2CAF2</color>
+    <color name="ColorSecondaryButton">#F8FAFF</color>
+    <color name="ColorBackground">#FFFFFF</color>
+    <color name="ColorBackgroundDisable">#ECEDEF</color>
+    <color name="ColorBackgroundEnable">#E5ECFF</color>
+
+    <color name="ColorIconDisable">#C8CCDC</color>
+    <color name="ColorIconField">#42444A</color>
+    <color name="ColorIconTint">#676767</color>
+    <color name="ColorButtonDisable">#C8CCDC</color>
+
+    <color name="PrimaryTextColor">#272D38</color>
+    <color name="BodyTextColor">#42444A</color>
+    <color name="SecondaryTextColor">#7781A3</color>
+    <color name="LightTextColor">#F7F7FB</color>
+
+    <color name="TabSelectedColor">#1A1A1F</color>
+    <color name="TabUnselectedColor">#9696A0</color>
+    <color name="backgroundCardGray">#F2F2F2</color>
+    <color name="DeviderColor">#F0EFEF</color>
+
+    <color name="ProfileColorGradian1">#CBA1FF1A</color>
+    <color name="ProfileColorGradian2">#0054E41A</color>
+    <color name="BageNotifDashboar">#FF877E</color>
+</resources>
