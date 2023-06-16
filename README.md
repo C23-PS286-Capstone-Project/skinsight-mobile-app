@@ -9,6 +9,6 @@ https://www.figma.com/file/ebdR9CBIzqduUr65Wcm7rr/Capstone-Project?type=design&n
 - Jetpack Compose
 - Retrofit
 - Shared Preferences
-- Temnsorflow Lite
 - CameraX
 - Coil-Compose
+- Coroutines
